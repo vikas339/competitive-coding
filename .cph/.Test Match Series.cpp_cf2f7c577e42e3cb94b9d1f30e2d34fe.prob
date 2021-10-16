@@ -1,0 +1,1 @@
+{"name":"Local: Test Match Series","url":"h:\\cpp\\Test Match Series.cpp","tests":[{"id":1634407297725,"input":"3\n0 1 2 1 0\n0 1 2 1 2\n2 2 2 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\cpp\\Test Match Series.cpp","group":"local","local":true}

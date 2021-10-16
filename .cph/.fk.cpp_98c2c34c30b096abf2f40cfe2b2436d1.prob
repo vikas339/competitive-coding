@@ -1,0 +1,1 @@
+{"name":"Local: fk","url":"h:\\cpp\\fk.cpp","tests":[{"id":1617378292673,"input":"3\n5 2\n*a*b*\n5 2\n*a**b\n5 1\nabcde","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\cpp\\fk.cpp","group":"local","local":true}
